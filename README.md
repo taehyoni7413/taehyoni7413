@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<h2>Tstory</h2>: https://taehyeoncoding.tistory.com/
+<h2>Tistory</h2>: https://taehyeoncoding.tistory.com/
